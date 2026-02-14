@@ -18,4 +18,4 @@
 * **Name**: Gabriel Carlos dos Santos
 * **Age**: 36
 * **Living in**: Minas Gerais, Brazil
-* **Skills**: PHP, Laravel, Javascript, Typescript, React, React-Native, Flutter
+* **Skills**: PHP, Laravel, CakePHP, Javascript, Typescript, React, React-Native, Flutter, Vuejs
